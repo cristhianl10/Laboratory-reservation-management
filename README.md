@@ -34,7 +34,7 @@ How to Run
 
 Clone the repository
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/cristhianl10/Laboratory-reservation-management.git
 
 
 Open the project in Visual Studio
